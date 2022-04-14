@@ -1,0 +1,1633 @@
+1630831967861	geckodriver	INFO	Listening on 127.0.0.1:53705
+1630831968807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOBcZsy"
+1630831969091	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOBcZsy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630831970032	Marionette	INFO	Listening on port 53716
+1630831970081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832019788	geckodriver	INFO	Listening on 127.0.0.1:53875
+1630832019793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileg9FrHA"
+1630832020030	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileg9FrHA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832020895	Marionette	INFO	Listening on port 53884
+1630832020948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832052713	Marionette	INFO	Stopped listening on port 53884
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832059223	Marionette	INFO	Stopped listening on port 53716
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832061691	geckodriver	INFO	Listening on 127.0.0.1:54044
+1630832061706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileiDaOzj"
+1630832061938	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileiDaOzj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832062652	Marionette	INFO	Listening on port 54053
+1630832062742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832085548	Marionette	INFO	Stopped listening on port 54053
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832161193	geckodriver	INFO	Listening on 127.0.0.1:54227
+1630832161201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDfI105"
+1630832161429	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDfI105/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832162140	Marionette	INFO	Listening on port 54236
+1630832162250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+1630832194115	geckodriver	INFO	Listening on 127.0.0.1:54394
+1630832195133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilecyZj6M"
+1630832195377	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilecyZj6M/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832196102	Marionette	INFO	Listening on port 54405
+1630832196178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832214597	geckodriver	INFO	Listening on 127.0.0.1:54560
+1630832215617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilejunPkz"
+1630832215828	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilejunPkz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832216756	Marionette	INFO	Listening on port 54571
+1630832216770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832243687	Marionette	INFO	Stopped listening on port 54405
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832244611	Marionette	INFO	Stopped listening on port 54571
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630832245548	Marionette	INFO	Stopped listening on port 54236
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832261722	geckodriver	INFO	Listening on 127.0.0.1:54751
+1630832262742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileO25J4e"
+1630832262996	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileO25J4e/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832263719	Marionette	INFO	Listening on port 54762
+1630832263798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832318993	geckodriver	INFO	Listening on 127.0.0.1:54921
+1630832320009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilegyHpdh"
+1630832320273	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilegyHpdh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832320995	Marionette	INFO	Listening on port 54932
+1630832321065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832367585	Marionette	INFO	Stopped listening on port 54932
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832368473	Marionette	INFO	Stopped listening on port 54762
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832404710	geckodriver	INFO	Listening on 127.0.0.1:55112
+1630832405729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefDxp0m"
+1630832405996	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefDxp0m/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832406687	Marionette	INFO	Listening on port 55123
+1630832406778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832444612	geckodriver	INFO	Listening on 127.0.0.1:55287
+1630832445629	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileii1EGZ"
+1630832445890	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileii1EGZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832446599	Marionette	INFO	Listening on port 55298
+1630832446670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832552284	geckodriver	INFO	Listening on 127.0.0.1:55462
+1630832553303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileoUKJDV"
+1630832553584	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileoUKJDV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832554341	Marionette	INFO	Listening on port 55473
+1630832554354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630832653217	geckodriver	INFO	Listening on 127.0.0.1:55633
+1630832654236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileBu3bPt"
+1630832654463	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileBu3bPt/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832655381	Marionette	INFO	Listening on port 55644
+1630832655391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832676670	Marionette	INFO	Stopped listening on port 55298
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832677401	Marionette	INFO	Stopped listening on port 55644
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832677859	Marionette	INFO	Stopped listening on port 55473
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1630832678293	Marionette	INFO	Stopped listening on port 55123
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1630832734550	geckodriver	INFO	Listening on 127.0.0.1:55801
+1630832735568	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOObiLH"
+1630832735805	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOObiLH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832736520	Marionette	INFO	Listening on port 55812
+1630832736628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832761717	Marionette	INFO	Stopped listening on port 55812
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630832809573	geckodriver	INFO	Listening on 127.0.0.1:55984
+1630832809578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileGphuU6"
+1630832809748	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileGphuU6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832810484	Marionette	INFO	Listening on port 55993
+1630832810518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832878178	Marionette	INFO	Stopped listening on port 55993
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1630832902020	geckodriver	INFO	Listening on 127.0.0.1:56185
+1630832903041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilebfyfh4"
+1630832903294	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilebfyfh4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832904005	Marionette	INFO	Listening on port 56196
+1630832904086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630832934944	geckodriver	INFO	Listening on 127.0.0.1:56362
+1630832934950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDQVWT9"
+1630832935142	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDQVWT9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832935953	Marionette	INFO	Listening on port 56371
+1630832935992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630832940783	geckodriver	INFO	Listening on 127.0.0.1:56435
+1630832940790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileNvZC22"
+1630832941014	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileNvZC22/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630832941706	Marionette	INFO	Listening on port 56444
+1630832941734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1630832978706	Marionette	INFO	Stopped listening on port 56444
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630832979270	Marionette	INFO	Stopped listening on port 56196
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833058745	geckodriver	INFO	Listening on 127.0.0.1:56619
+1630833059759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileeOXfB6"
+1630833059966	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileeOXfB6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833060737	Marionette	INFO	Listening on port 56630
+1630833060802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630833159530	geckodriver	INFO	Listening on 127.0.0.1:56791
+1630833160549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilerMjzjz"
+1630833160814	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilerMjzjz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833161518	Marionette	INFO	Listening on port 56802
+1630833161602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630833200538	geckodriver	INFO	Listening on 127.0.0.1:56961
+1630833201560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileRk7wYU"
+1630833201813	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileRk7wYU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833202535	Marionette	INFO	Listening on port 56972
+1630833202610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630833286220	geckodriver	INFO	Listening on 127.0.0.1:57172
+1630833287240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofiledys6XU"
+1630833287514	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofiledys6XU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833288243	Marionette	INFO	Listening on port 57183
+1630833288285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1518:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1518:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1630833430469	geckodriver	INFO	Listening on 127.0.0.1:57363
+1630833431487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile4yJdra"
+1630833431767	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile4yJdra/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833432707	Marionette	INFO	Listening on port 57374
+1630833432750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630833505052	geckodriver	INFO	Listening on 127.0.0.1:57579
+1630833506069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileimssd2"
+1630833506310	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileimssd2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833507293	Marionette	INFO	Listening on port 57590
+1630833507326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630833602638	Marionette	INFO	Stopped listening on port 56972
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter127, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2114:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2032:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:747:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:899:15\nwait@resource://gre/modules/AsyncShutdown.jsm:880:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:557:10\ngoQuitApplication@chrome://global/content/globalOverlay.js:91:20\noncommand@chrome://browser/content/hiddenWindowMac.xhtml:1:18\n", "resource://devtools/shared/protocol/Front.js", 103))
+1630833609389	Marionette	INFO	Stopped listening on port 57590
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833610155	Marionette	INFO	Stopped listening on port 57374
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833610680	Marionette	INFO	Stopped listening on port 57183
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833611300	Marionette	INFO	Stopped listening on port 56802
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x59000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833628754	geckodriver	INFO	Listening on 127.0.0.1:57763
+1630833629770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilePoS355"
+1630833630052	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilePoS355/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833630795	Marionette	INFO	Listening on port 57774
+1630833630816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630833685424	Marionette	INFO	Stopped listening on port 57774
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833686038	Marionette	INFO	Stopped listening on port 56630
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630833746142	geckodriver	INFO	Listening on 127.0.0.1:57940
+1630833747161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilenjQETi"
+1630833747429	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilenjQETi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833748159	Marionette	INFO	Listening on port 57951
+1630833748219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630833897048	geckodriver	INFO	Listening on 127.0.0.1:58123
+1630833897054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile4tjvot"
+1630833897232	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile4tjvot/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630833898045	Marionette	INFO	Listening on port 58132
+1630833898091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cxnsqarbn8229u85xdg3iu062, line 6: unreachable code after return statement
+1630833917746	Marionette	INFO	Stopped listening on port 58132
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630833920009	Marionette	INFO	Stopped listening on port 57951
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630834019041	geckodriver	INFO	Listening on 127.0.0.1:58305
+1630834019048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile0BvN1w"
+1630834019236	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile0BvN1w/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834020030	Marionette	INFO	Listening on port 58314
+1630834020102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1630834190493	Marionette	INFO	Stopped listening on port 58314
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630834192411	geckodriver	INFO	Listening on 127.0.0.1:58495
+1630834192417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilepuRpNu"
+1630834192639	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilepuRpNu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834193343	Marionette	INFO	Listening on port 58504
+1630834193363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630834274887	geckodriver	INFO	Listening on 127.0.0.1:58659
+1630834274894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDR2BJU"
+1630834275122	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDR2BJU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834275826	Marionette	INFO	Listening on port 58668
+1630834275937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1518:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1630834339920	Marionette	INFO	Stopped listening on port 58668
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630834340457	Marionette	INFO	Stopped listening on port 58504
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630834342858	geckodriver	INFO	Listening on 127.0.0.1:58812
+1630834342865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilemoeLTG"
+1630834343071	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilemoeLTG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834343879	Marionette	INFO	Listening on port 58821
+1630834343911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630834368585	Marionette	INFO	Stopped listening on port 58821
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630834550853	geckodriver	INFO	Listening on 127.0.0.1:59034
+1630834550868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile2bW4Kq"
+1630834551061	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile2bW4Kq/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834551793	Marionette	INFO	Listening on port 59043
+1630834551807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1518:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1646:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1630834908308	geckodriver	INFO	Listening on 127.0.0.1:59229
+1630834908313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOaRM78"
+1630834908565	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOaRM78/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834909313	Marionette	INFO	Listening on port 59238
+1630834909354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630834978984	geckodriver	INFO	Listening on 127.0.0.1:59383
+1630834980004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilekdZfAh"
+1630834980274	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilekdZfAh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630834981020	Marionette	INFO	Listening on port 59394
+1630834981049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630835021076	geckodriver	INFO	Listening on 127.0.0.1:59550
+1630835022081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilemGPRhs"
+1630835022293	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilemGPRhs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835023121	Marionette	INFO	Listening on port 59561
+1630835023231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630835052352	Marionette	INFO	Stopped listening on port 59561
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835053019	Marionette	INFO	Stopped listening on port 59394
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835053762	Marionette	INFO	Stopped listening on port 59238
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835054204	Marionette	INFO	Stopped listening on port 59043
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835138371	geckodriver	INFO	Listening on 127.0.0.1:59740
+1630835138375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilejtfJ92"
+1630835138622	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilejtfJ92/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835139349	Marionette	INFO	Listening on port 59749
+1630835139425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1630835145174	geckodriver	INFO	Listening on 127.0.0.1:59816
+1630835145180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefTPUli"
+1630835145400	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefTPUli/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835146124	Marionette	INFO	Listening on port 59825
+1630835146226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630835176306	Marionette	INFO	Stopped listening on port 59825
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835275592	geckodriver	INFO	Listening on 127.0.0.1:59986
+1630835275597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile1cPZti"
+1630835275822	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile1cPZti/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835276526	Marionette	INFO	Listening on port 59995
+1630835276638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630835354949	geckodriver	INFO	Listening on 127.0.0.1:60150
+1630835354954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilek6fPpP"
+1630835355137	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilek6fPpP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835355880	Marionette	INFO	Listening on port 60159
+1630835355892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630835384251	geckodriver	INFO	Listening on 127.0.0.1:60337
+1630835385269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilev807vF"
+1630835385492	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilev807vF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835386301	Marionette	INFO	Listening on port 60348
+1630835386321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630835408392	geckodriver	INFO	Listening on 127.0.0.1:60495
+1630835409414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOWPgpm"
+1630835409692	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileOWPgpm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835410417	Marionette	INFO	Listening on port 60507
+1630835410463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630835473727	geckodriver	INFO	Listening on 127.0.0.1:60674
+1630835474742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefnnMQD"
+1630835474974	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilefnnMQD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835475792	Marionette	INFO	Listening on port 60685
+1630835475895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static-exp1.licdn.com/sc/h/cg6ct5hkeb5gb69asgyt0jssd without a browsingContextID set
+1630835556487	geckodriver	INFO	Listening on 127.0.0.1:60850
+1630835557508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile3QWqhy"
+1630835557764	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofile3QWqhy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835558594	Marionette	INFO	Listening on port 60861
+1630835558666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630835640890	geckodriver	INFO	Listening on 127.0.0.1:61023
+1630835641906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDZT6Xm"
+1630835642186	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileDZT6Xm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630835643124	Marionette	INFO	Listening on port 61034
+1630835643160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b08gxllvwy6zylnb52u2u7ovr
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630835654609	Marionette	INFO	Stopped listening on port 61034
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835658167	Marionette	INFO	Stopped listening on port 60861
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835658821	Marionette	INFO	Stopped listening on port 60685
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835659298	Marionette	INFO	Stopped listening on port 60507
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835659650	Marionette	INFO	Stopped listening on port 60348
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835659866	Marionette	INFO	Stopped listening on port 60159
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630835660169	Marionette	INFO	Stopped listening on port 59995
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630836151519	geckodriver	INFO	Listening on 127.0.0.1:61348
+1630836151524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileLSmzY6"
+1630836151751	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofileLSmzY6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630836152462	Marionette	INFO	Listening on port 61357
+1630836152573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+1630836231677	geckodriver	INFO	Listening on 127.0.0.1:61514
+1630836231682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilepX5hSd"
+1630836231880	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7c/l2m624l53v902qzxy1gv_87h0000gn/T/rust_mozprofilepX5hSd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630836232685	Marionette	INFO	Listening on port 61523
+1630836232725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1630836000000, line 1: TypeError: utag is undefined
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 6445: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/518qiu0z4f636m9p7bh73xrwv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1p2pwj4ztxr804ax1pvkgpswa, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ac70nqitee92nvy1yesz3fu1j, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2svyhoxjh6q85o2ag4fspz8uc, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cudf3cnvapywz2dihutg964ql, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cxnsqarbn8229u85xdg3iu062, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1630930273841	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1630930582513	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://static-exp1.licdn.com/sc/h/6lk05apo7foe24jjij3is7bs5, line 15391: Error: {"status":0}
+1630989159263	Marionette	INFO	Stopped listening on port 61523
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3742, IPC I/O Parent] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:718
+1630989160187	Marionette	INFO	Stopped listening on port 61357
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
